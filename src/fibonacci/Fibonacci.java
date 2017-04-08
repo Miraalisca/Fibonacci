@@ -26,6 +26,7 @@ public static void main(String[] args) {
         if(x>1){
             return fibbonaci(x-1)+fibbonaci(x-2);
         }
+        //ganti
         return x;
     }
  private static void total(int x){
